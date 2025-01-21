@@ -11,7 +11,7 @@ namespace VinCheck
     {
         static void Main()
         {
-            string vin = "WAUZZZ8V8DA084485"; // AUDI
+            string vin = "WAUZZZ8V8DA084485";
             string vin1 = "A1BS31Z0430336179";
             string vin3 = "TMBBH25J0A3009215";
             string vin4 = "0000LY341U49810IX";
